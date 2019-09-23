@@ -23,4 +23,4 @@ imessage/facetime：无效
 
 拆机:拧松免拆螺丝后沿屏幕两侧的缝隙内使用信用卡斜上方插入，沿边缘滑动逐步拆开以免卡扣断裂。尽量不要拆机
 
-# Thinks for @旋木djsoft
+Thanks for @旋木djsoft
