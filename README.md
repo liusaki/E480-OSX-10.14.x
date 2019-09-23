@@ -15,7 +15,7 @@ wifi：原Realtek 8821CE无法驱动，更换DW1820A/CN-0VW3T3/BCM94350ZAE_2，�
 
 键盘：小红点已完美，三按键完美
 
-硬盘：更换SATA或m2 SSD
+硬盘：更换SATA或nvme SSD
 
 内存：预留插槽
 
